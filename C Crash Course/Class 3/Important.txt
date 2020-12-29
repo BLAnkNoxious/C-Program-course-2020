@@ -1,0 +1,44 @@
+
+
+
+       + Addition
+       - Subtraction
+       * Multiplication
+       / Division
+       % Modulus
+
+       *, /,%        >>        +,-
+
+       5 * 2 + 6 / 3 - 1
+       10 + 6 / 3 - 1
+       10 + 2 - 1
+       12 - 1
+       11
+
+
+       == Equal to
+       != Not equal
+       > Greater than
+       < less than
+       >= Greater than or equal to
+       <= Less than or equal to
+       >=,<=,<,> are in True(1) and false(0)
+
+
+       Logical AND  &&
+       Logical OR   ||
+       Logical NOT  !
+
+
+       Assingment Operator :
+       =       Assign
+       +=      Increment then Assign
+
+       a = 5
+       b = 10
+
+       a += b         a = a + b  (15 = 5 + 10)
+       a -= b         a = a - b
+       a *= b         a = a * b
+       a /= b         a = a / b
+       a %= b         a = a % b

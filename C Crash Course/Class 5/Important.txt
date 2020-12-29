@@ -1,0 +1,25 @@
+
+
+
+
+     A String is represented by an arrey of character
+       
+      Tulshi Sonowal
+    
+      scanf("%s", name);
+  
+      { 'T', 'u', 'l', 's', 'h', 'i', '\0'}
+         0    1    2    3    4    5     6
+
+       
+        char str[6] = "Tulshi"
+        char str[10] = "Tulshi"
+        char str[] = "Tulshi"
+        char str[6] = { 'T', 'u', 'l', 's', 'h', 'i', '\0'}
+
+
+   strcat() = Appends acopy of the cource String to the end of the destination string(Add one with another).
+   strcmp() = Compare two strings lexicographycally.
+   strcpy() = Compare one string to another(copy one to another).
+   strlen() = Gives you the length of the string. It does not include the null character.
+        

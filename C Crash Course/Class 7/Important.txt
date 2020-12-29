@@ -1,0 +1,39 @@
+        
+
+        POINTERS :
+
+        int, char, double, float
+
+        int a = 34;
+        int*b = &a;  (int*ptra)
+        scanf("%d",&a);
+
+        & = it givers us the address of a variable
+        *---- dereference operator / indirect operator
+        printf("%x\n", *b);
+
+        NULL POINTERS :
+        
+        int *ptr = NULL;
+
+        POINTER ARITHMATICS :
+
+        ++
+        --
+        -
+        =
+        +
+        size of (int)
+
+        int a = 5;
+        a++;
+        int *ptra = &a; 1000------1004
+        ptra++;
+        ptra+2-----1008
+        char*ptra=&a;----1
+
+        int -----increase 4
+        char-----increase 1
+        Double---increase 8
+        float----increase 4 
+
